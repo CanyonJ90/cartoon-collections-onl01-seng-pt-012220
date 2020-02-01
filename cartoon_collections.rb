@@ -38,7 +38,7 @@ end
 
 
 cheese_types = ["cheddar", "gouda", "camembert"]
-snacks = []
+snacks = ["garlic", "rosemary", "bread"]
 
 
 def find_the_cheese(array)

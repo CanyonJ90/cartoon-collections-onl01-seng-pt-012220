@@ -1,8 +1,6 @@
 dwarves = ["Doc", "Dopey", "Bashful", "grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 call_screams = ["bo", "bam", "boom", "bazam", "powzer"]
-cheese_types = ["cheddar", "gouda", "camembert"]
-
 
 def roll_call_dwarves(array)
   i = 0 

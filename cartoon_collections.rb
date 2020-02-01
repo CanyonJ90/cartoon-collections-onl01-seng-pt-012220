@@ -1,5 +1,3 @@
-dwarves = ["Doc", "Dopey", "Bashful", "grumpy"]
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
 def roll_call_dwarves(array)
   i = 0 
